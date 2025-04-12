@@ -1,0 +1,14 @@
+{
+    "rewrites": [
+      { "source": "/management", "destination": "/" }
+    ],
+    "redirects": [
+      {
+        "source": "/gov",
+        "destination": "https://www.nsw.gov.au/housing-and-construction",
+        "permanent": false
+      }
+    ],
+    "regions": ["syd1"]
+  }
+  
